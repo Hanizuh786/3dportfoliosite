@@ -38,6 +38,7 @@ import sharebite from "./sharebite.png";
 import fenixtrade from "./fenixtrade.png";
 import touragencyapp from "./touragencyapp.png";
 
+
 export {
   logo,
   backend,

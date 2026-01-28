@@ -47,12 +47,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in Javascript, PHP and
-        Elixir, and expertise in frameworks like Node.js,Laravel and Phoenix. 
-        I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
-      </motion.p>
+       Results-Driven Software Developer And IT Manager With 6+ Years Of Experience In Building Scalable Web Applications, E-Commerce Platforms, And High-Performance Digital Solutions.
+Proven Track Record Of Leading Cross-Functional Teams, Managing End-To-End Projects, And Delivering Business-Focused Technical And Marketing Solutions.
+Expert In Modern Web Technologies, Cloud Infrastructure, SEO, And Performance Marketing With A Strong Focus On Growth, Quality, And User Experience.  </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
