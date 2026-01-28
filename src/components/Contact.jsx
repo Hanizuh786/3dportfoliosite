@@ -47,9 +47,9 @@ const Contact = () => {
         emailjs_template_id,
         {
           from_name: form.name,
-          to_name: "Erik Johnson",
+          to_name: "Hanya Zia ul Haq",
           from_email: form.email,
-          to_email: "AppleDesire0505@gmail.com",
+          to_email: "hanyazia@icloud.com",
           message: form.message,
         },
         // import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
@@ -93,10 +93,9 @@ const Contact = () => {
           <br></br>
           <br></br>
           <span className="text-white">
-            Mail: AppleDesire0505@gmail.com <br></br><br></br>
-            Discord: Erik-Johnson#9998 <br></br><br></br>
-            Skype: live:.cid.fc7a7aaa3f44c5b6 <br></br><br></br>
-            Telegram: https://t.me/erik_johnson9998 <br></br>
+            Mail: hanyazia@icloud.com <br></br><br></br>
+            Whatsapp: +971581936056 <br></br><br></br>
+          
           </span>
         </p>
       </div>
